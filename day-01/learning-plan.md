@@ -53,6 +53,19 @@ The rule: *learn something, then explain it publicly.* If I can't explain it, I 
 
 ---
 
+---
+
+## Resources for Day 1 (What is Devops)
+
+
+https://www.youtube.com/watch?v=zG1cM9VSINg
+- https://www.youtube.com/watch?v=0yWAtQ6wYNM&t=535s
+- 
+
+The rule: *learn something, then explain it publicly.* If I can't explain it, I didn't learn it.
+
+---
+
 ## Current Level
 
 > Fresher. CS undergrad. DevOps exposure: zero. Curiosity: high. Excuses: none.
