@@ -7,7 +7,7 @@
 
 # 🌐 What I Learned Today
 
-Today I studied the basics of **Computer Networking** and explored some real-world **DevOps case studies** showing how deployment practices can either build or destroy companies. Humanity really built an entire industry where pressing the wrong button can erase hundreds of millions of dollars in minutes. Beautiful engineering culture.
+Today I studied the basics of **Computer Networking** and working on the Digital Notes , Will be adding it real soon in day 2 Folder,aslo gonna make a video - Linux for dumies and explored some real-world **DevOps case studies** showing how deployment practices can either build or destroy companies. Humanity really built an entire industry where pressing the wrong button can erase hundreds of millions of dollars in minutes. Beautiful engineering culture.
 
 ---
 
