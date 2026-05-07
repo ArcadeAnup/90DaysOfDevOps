@@ -51,6 +51,10 @@ This is a personal learning repository, but suggestions and improvements are alw
 ## 📬 Connect
 
 Feel free to connect with me for discussions, collaboration, or feedback.
+🔗 LinkedIn: linkedin.com/in/anuparcade
+🐦 X/Twitter: x.com/arcadeanup
+📝 Blog: 90daysofdevop.hashnode.dev
+🎥 YouTube: youtube.com/@ArcadeAnup
 
 ---
 
