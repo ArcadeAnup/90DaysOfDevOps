@@ -102,12 +102,7 @@ read NAME
 echo "Hello, $NAME"
 ```
 
-## What I Built Today
-1. A script that checks server connectivity using ping
-2. A script that backs up files and logs the process
-3. A network diagnostics script that runs multiple networking commands and saves output
 
-All messy, all functional.
 
 ## Key Takeaways
 1. SSH is how you actually work with remote servers in the real world
@@ -127,18 +122,5 @@ If I'm serious about DevOps, I need to live in the environment I'm learning. No 
 - Forgot to use `sudo` for commands that needed elevated permissions
 - Wrote a script with Windows line endings, spent 20 minutes debugging why bash couldn't read it
 
-## Questions I Still Have
-- What's the difference between SSH keys (RSA, ED25519, etc.)?
-- How do you secure SSH properly in production?
-- When do you use `curl` vs `wget`?
-- What networking commands do actual sysadmins use daily?
-
-## Tomorrow's Plan
-- Set up Linux as primary OS
-- Learn more about SSH security best practices
-- Write more complex shell scripts with error handling
-- Explore systemd and service management
-
----
 
 **Progress: 6/90 days complete**
