@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=r-iLBNaCTDk
 ## Azure Student Account Setup
 - Activated Azure Student Benefits: $100 free credits
 - Set up Azure Portal account
