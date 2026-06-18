@@ -537,3 +537,6 @@ Terraform workflow:
 2. `terraform plan` - Shows: Create RG → Create Storage → Create Container
 3. `terraform apply` - Executes in order, passes values automatically
 4. Shows outputs (IDs, connection string, etc.)
+
+
+done .
