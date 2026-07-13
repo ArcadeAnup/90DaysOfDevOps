@@ -1,13 +1,20 @@
-Day 68 of #90DaysOfDevOps 🚀
+**Day 69 of #90DaysOfDevOps 🚀**
 
-Today I made good progress on my project by planning the architecture and continuing the containerization process.
+Today I finalized the architecture for my **EasyShop** project and continued the containerization process.
 
 ✅ Today's progress:
 
-Designed the architecture diagram for the project
-Containerized the application
-Containerized the migration service
+* Designed the overall project architecture
+* Containerized the application
+* Containerized the migration service
 
-Taking the time to plan the architecture before deployment makes the project much easier to manage and scale. Looking forward to deploying the complete application to the cloud in the coming days.
+The architecture for the project is now clear:
 
-#90DaysOfDevOps #DevOps #Docker #Containerization #Architecture #CloudComputing #Projects #LearningInPublic #EasyShop
+🐳 **Docker** for containerization
+🔄 **Jenkins** for CI/CD automation
+☸️ **Kubernetes** for container orchestration
+
+It's exciting to see everything I've learned over the past two months coming together in one real-world project. The next step is to continue deploying and automating the entire application.
+
+#90DaysOfDevOps #DevOps #Docker #Jenkins #Kubernetes #CI_CD #Containerization #CloudComputing #LearningInPublic #EasyShop
+
